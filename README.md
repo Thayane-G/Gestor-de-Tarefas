@@ -1,4 +1,3 @@
-
 # Task Manager
 
 Esse foi um projeto que desenvolvi para praticar Java com integração ao MySQL utilizando JDBC.
