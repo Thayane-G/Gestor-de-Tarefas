@@ -8,19 +8,19 @@ A ideia foi criar um sistema simples de gerenciamento de tarefas funcionando pel
 
 <h2> Funcionalidades </h2>
 
-Cadastrar tarefas
-Listar tarefas
-Atualizar status
-Excluir tarefas
+- Cadastrar tarefas
+- Listar tarefas
+- Atualizar status
+- Excluir tarefas
 
 ---
 
 <h2> Tecnologias utilizadas </h2>
 
-Java
-MySQL
-JDBC
-Git/GitHub
+- Java
+- MySQL
+- JDBC
+- Git/GitHub
 
 ---
 
@@ -65,12 +65,12 @@ CREATE TABLE tasks (
 
 Durante o desenvolvimento consegui praticar:
 
-CRUD
-JDBC
-integração Java + MySQL
-organização em camadas
-DAO
-orientação a objetos
+- CRUD
+- JDBC
+- Integração Java + MySQL
+- Organização em camadas
+- DAO
+- Orientação a objetos
 
 Além disso, também foi um projeto importante para me familiarizar melhor com versionamento utilizando Git e GitHub.
 
