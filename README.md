@@ -6,6 +6,15 @@ A ideia foi criar um sistema simples de gerenciamento de tarefas funcionando pel
 
 ---
 
+## ![Preview do projeto]
+
+<img width="1919" height="1142" alt="Captura de tela 2026-06-03 150328" src="https://github.com/user-attachments/assets/e0cb54de-51a0-439e-804b-4c3790d7f0e2" />
+<img width="897" height="697" alt="Captura de tela 2026-06-03 145857" src="https://github.com/user-attachments/assets/2038e838-9da3-466d-b7e3-79db5edd8cdf" />
+<img width="972" height="736" alt="Captura de tela 2026-06-03 145942" src="https://github.com/user-attachments/assets/1b070eef-94b6-4520-a975-ec6ac336094f" />
+<img width="543" height="375" alt="Captura de tela 2026-06-03 150018" src="https://github.com/user-attachments/assets/5a4ace45-2950-4332-940f-b3a2a9becc15" />
+
+---
+
 <h2> Funcionalidades </h2>
 
 - Cadastrar tarefas
@@ -73,18 +82,6 @@ Durante o desenvolvimento consegui praticar:
 - Orientação a objetos
 
 Além disso, também foi um projeto importante para me familiarizar melhor com versionamento utilizando Git e GitHub.
-
----
-
-<h2> ![Preview do projeto] </h2>
-
-<img width="1919" height="1142" alt="Captura de tela 2026-06-03 150328" src="https://github.com/user-attachments/assets/e0cb54de-51a0-439e-804b-4c3790d7f0e2" />
-<img width="897" height="697" alt="Captura de tela 2026-06-03 145857" src="https://github.com/user-attachments/assets/2038e838-9da3-466d-b7e3-79db5edd8cdf" />
-<img width="972" height="736" alt="Captura de tela 2026-06-03 145942" src="https://github.com/user-attachments/assets/1b070eef-94b6-4520-a975-ec6ac336094f" />
-<img width="543" height="375" alt="Captura de tela 2026-06-03 150018" src="https://github.com/user-attachments/assets/5a4ace45-2950-4332-940f-b3a2a9becc15" />
-
-
-
 
 ---
 
